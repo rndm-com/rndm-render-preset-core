@@ -1,0 +1,13 @@
+{
+  "name": "rndm-render-preset-core",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "RNDM",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "rndm-render-plugin-core": "file:///Users/paul.napier/Desktop/dev/mine/rndm/_plugins/rndm-render-plugin-core",
+    "rndm-render-plugin-lodash": "file:///Users/paul.napier/Desktop/dev/mine/rndm/_plugins/rndm-render-plugin-lodash",
+    "rndm-render-plugin-react-native": "file:///Users/paul.napier/Desktop/dev/mine/rndm/_plugins/rndm-render-plugin-react-native"
+  }
+}
