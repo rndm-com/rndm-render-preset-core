@@ -1,13 +1,21 @@
 {
-  "name": "rndm-render-preset-core",
+  "name": "@rndm/render-preset-core",
   "version": "0.1.0",
   "main": "src/index.js",
-  "scripts": {},
   "author": "RNDM",
   "license": "Apache-2.0",
+  "description": "RNDM Render Preset: Core. Core functionality for RNDM Render",
+  "homepage": "https://github.com/rndm-com/rndm-render-preset-core#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rndm-com/rndm-render-preset-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rndm-com/rndm-render-preset-core/issues"
+  },
   "dependencies": {
-    "rndm-render-plugin-core": "file:///Users/paul.napier/Desktop/dev/mine/rndm/_plugins/rndm-render-plugin-core",
-    "rndm-render-plugin-lodash": "file:///Users/paul.napier/Desktop/dev/mine/rndm/_plugins/rndm-render-plugin-lodash",
-    "rndm-render-plugin-react-native": "file:///Users/paul.napier/Desktop/dev/mine/rndm/_plugins/rndm-render-plugin-react-native"
+    "@rndm/render-plugin-core": "^0.1.0",
+    "@rndm/render-plugin-lodash": "^4.17.10",
+    "@rndm/render-plugin-react-native": "^0.55.4"
   }
 }
