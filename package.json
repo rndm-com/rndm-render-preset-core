@@ -1,6 +1,6 @@
 {
   "name": "@rndm/render-preset-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "src/index.js",
   "author": "RNDM",
   "license": "Apache-2.0",
@@ -14,8 +14,8 @@
     "url": "https://github.com/rndm-com/rndm-render-preset-core/issues"
   },
   "dependencies": {
-    "@rndm/render-plugin-core": "^0.1.1",
-    "@rndm/render-plugin-lodash": "^4.17.10",
+    "@rndm/render-plugin-core": "^0.1.2",
+    "@rndm/render-plugin-lodash": "^4.17.10.1",
     "@rndm/render-plugin-react-native": "^0.57.4"
   }
 }
