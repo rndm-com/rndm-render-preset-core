@@ -1,26 +1,20 @@
-# RNDM Render Preset: Core
+# [RNDM](https://www.rndm.com) Render Preset: Core
 
 ## About
 
-This preset includes the following plugins for the [RNDM Render package](https://github.com/rndm-com/rndm-render).
+This preset includes the following plugins for the [RNDM Render package](https://www.rndm.com/docs/rndm-render).
 
-- [Core](https://github.com/rndm-com/rndm-render-plugin-core)
-- [Lodash](https://github.com/rndm-com/rndm-render-plugin-lodash)
-- [React Native](https://github.com/rndm-com/rndm-render-plugin-react-native)
-
-_**Please Note**: This plugin is also contained within the [Core Preset](https://github.com/rndm-com/rndm-render-preset-core) package, which also includes other functionality such as React Native components and lodash methods. If you are looking to get started, we highly recommend the [RNDM Client](https://github.com/rndm-com/rndm-client) which includes the standard [RNDM Render](https://github.com/rndm-com/rndm-render) and the core plugin._
+- [Core](https://www.rndm.com/docs/rndm-render/plugin/core)
+- [Lodash](https://www.rndm.com/docs/rndm-render/plugin/lodash)
+- [React Native](https://www.rndm.com/docs/rndm-render/plugin/react-native)
 
 ## Installation
 
-In order for this to be used, you will first need to ensure you have installed [RNDM Render](https://github.com/rndm-com/rndm-render):
+In order for this to be used, you will first need to ensure you have installed [RNDM Render](https://www.rndm.com/docs/rndm-render):
 
 ```sh
 npm install --save @rndm/render
 ```
-
-## Installation
-
-If you have not already done so, then please ensure you have installed the [RNDM Render](https://github.com/rndm-com/rndm-render).
 
 ### From NPM
 
@@ -30,4 +24,6 @@ npm install --save @rndm/render-preset-core
 
 ## Usage
 
-For full documentation checkout the docs on the plugins and RNDM Render.
+For full documentation checkout the docs on the plugins and [RNDM Render](https://www.rndm.com/docs/rndm-render).
+
+Check out the [Playground](https://www.rndm.com/playground) page to see how these features work.
